@@ -4,3 +4,10 @@ limpia vidrios: 60 U
 rollo papel higienico: 50 U
 rollo cocina: 50 U
 trapos de piso:15 U
+
+Proveedor ficticio
+Distribuidora El Ahorro S.R.L.
+📍 Dirección: Av. Independencia 1842, Tandil, Buenos Aires
+📞 Teléfono : (0249) 455-7821
+
+total 175 unidades por un valor de $392,000 pesos
