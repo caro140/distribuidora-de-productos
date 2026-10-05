@@ -1,0 +1,5 @@
+Factura #001 — $25.000
+Factura #002 — $18.500
+Factura #003 — $32.000
+Factura #004 — $12.750
+Factura #005 — $41.300
